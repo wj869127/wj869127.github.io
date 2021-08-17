@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 17 Aug 2021 21:07:19 at http://biorob2.epfl.ch/pages/projects/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://biorob2.epfl.ch/pages/projects/ -O1 "C:\Users\j-wu1\Downloads\test4web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:08:06	Warning: 	Retry after error -4 (Connect Error) at link jahia-prod.epfl.ch/templates/epfl/img/icon_home_white.png (from biorob2.epfl.ch/pages/projects/)
+21:08:28	Error: 	"Not Found" (404) at link https://www.epfl.ch/labs/biorob/wp-content/themes/epfl-master/assets/js/navigation.js?ver=20151215 (from biorob2.epfl.ch/pages/projects/)
+21:08:28	Error: 	"Not Found" (404) at link https://www.epfl.ch/labs/biorob/wp-content/themes/epfl-master/assets/js/main.js (from biorob2.epfl.ch/pages/projects/)
+21:08:28	Warning: 	Retry after error -4 (Connect Error) at link jahia-prod.epfl.ch/templates/epfl/img/icon_home_white.png (from biorob2.epfl.ch/pages/projects/)
+21:08:49	Error: 	"Connect Error" (-4) after 2 retries at link jahia-prod.epfl.ch/templates/epfl/img/icon_home_white.png (from biorob2.epfl.ch/pages/projects/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 30 seconds : 101 links scanned, 95 files written (1748171 bytes overall) [552605 bytes received at 6140 bytes/sec], 1728728 bytes transferred using HTTP compression in 66 files, ratio 25%, 9.6 requests per connection
+(3 errors, 2 warnings, 0 messages)
